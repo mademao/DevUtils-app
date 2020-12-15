@@ -182,9 +182,9 @@ class AppState {
     HTMLBeautifierTool,
     CSSBeautifierTool,
     JSBeautifierTool,
-    //    ERBBeautifierTool,
-    //    LESSBeautifierTool,
-    //    SCSSBeautifierTool
+    ERBBeautifierTool,
+    LESSBeautifierTool,
+    SCSSBeautifierTool,
     XMLBeautifierTool
   ]
 
